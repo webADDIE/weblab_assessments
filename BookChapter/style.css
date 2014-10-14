@@ -1,0 +1,29 @@
+body {
+    font-family: serif;
+    font-size: 14px;
+    color: navajowhite;
+    background-color: black;
+    width: 750px;
+    line-height: 20px;
+}
+h1,h2 {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: lightblue;
+}
+h2 {
+    font-size: 20px;
+}
+#meh {
+    color: gray;
+}
+#start {
+    color: lightblue;
+}
+.chapter {
+    text-transform: uppercase;
+}
+ul {
+    list-style: none;
+    line-height: 25px;
+}
